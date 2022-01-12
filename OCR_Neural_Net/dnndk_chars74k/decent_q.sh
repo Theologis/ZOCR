@@ -1,0 +1,10 @@
+decent_q quantize \
+  --input_frozen_graph frozen_model_dnndk.pb \
+  --input_nodes  input_real \
+  --input_shapes ?,32,32,1 \
+  --output_nodes discriminator/out \
+  --input_fn data_gen.load_data \
+  --method 1 \
+  --gpu 0 \
+  --calib_iter 10 \
+  --output_dir ./quantize_results \
