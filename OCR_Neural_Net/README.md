@@ -45,8 +45,7 @@ The Chars74k dataset consists of:
 
 
 ## Example!
-<img src="unnamed.png"> 
-
+[png](./semi_supervised_chars74k/images/unnamed.png)
 
 ```python
 proj_directory = '/Users/Theologis/Desktop/CAS Lab/sem-supervised_chars74k/' ##TOCHANGE... cd in the ${../../sem-supervised_chars74k}/ dir
@@ -212,7 +211,7 @@ plt.legend()
 
 
     
-![png](output_10_1.png)
+[png](./semi_supervised_chars74k/images/output_10_1.png)
     
 
 
