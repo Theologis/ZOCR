@@ -1,5 +1,5 @@
 # ZOCR
-========
+
 A real-time OCR algorithm. Our system is able to recognize text in unconstrain background.  
 This algorithm is based on several papers, and was implemented in C/C++ using ZedBoard DPU.\
 
