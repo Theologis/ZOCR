@@ -15,7 +15,7 @@ In this project, we implement a solution about is the [Chars74k](http://www.ee.s
 ---
 
 ## Introduction 
-![png](./semi_supervised_chars74k/images/NN.png)
+![png](./semi_supervised_chars74k/images/N.png)
 
 - **STEP 1** is a pre-processing step where we prepareoy data to be fed in the NN.
 
