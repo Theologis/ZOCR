@@ -45,7 +45,6 @@ The Chars74k dataset consists of:
 
 
 ## Example!
-[png](./semi_supervised_chars74k/images/unnamed.png)
 
 ```python
 proj_directory = '/Users/Theologis/Desktop/CAS Lab/sem-supervised_chars74k/' ##TOCHANGE... cd in the ${../../sem-supervised_chars74k}/ dir
