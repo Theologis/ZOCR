@@ -6,7 +6,7 @@ In this project, we implement an alternative way from the easy [OCR](https://git
 > **Note**  Here is a quick run of the easy OCR model[Run](https://colab.research.google.com/drive/1Cjl0eTM_lhJUIdZahp6iI_332j5sAWRR) .
 
 ### Introduction
-![image.png](attachment:image.png)
+![png](./images/download.png)
 
 ### Detection
 Detection is the unit where we detect potencial characters. The detected bounding boxes might contain some ourliers. This unit is divided into two fundamental steps: 
