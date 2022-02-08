@@ -17,7 +17,7 @@ Detection is based on an region detector called Extremal Region (ER), which is b
 
 ### Recognition 
 Recognition unit contains a classifier that can classify the isolated regions but also determine if the regions are characters or not. This classifier contains following aspects :
-![png](./images/download4.png)
+![png](./images/download2.png)
 - **1)** Neural Network trained with [Chars74k](http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/).
 - **2)** Can classify 62 classes (0-9,A-Z,a-z).
 - **3)** GAN trained with semi-supervised approach.
